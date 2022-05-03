@@ -22,19 +22,19 @@ Permissão necessária para o comando: leafwhitelist.whitelist
 * /whitelist setmessage (mensagem) - Definir a mensagem da whitelist.
 
 ## Configuração
-
-Whitelist:
 ```yml
-# Defina se a whitelist está ligada ou desligada, true para ligada e false para desligada.
-status: false
+Whitelist:
 
-# Defina a mensagem que irá aparecer pro jogador quando ele for kickado pela whitelist.
-kickMessage: "O servidor está em whitelist"
+  # Defina se a whitelist está ligada ou desligada, true para ligada e false para desligada.
+  status: false
 
-# Aqui você pode botar as pessoas que podem entrar na whitelist forçada.
-bypass:
-  - "Vaaaaz"
+  # Defina a mensagem que irá aparecer pro jogador quando ele for kickado pela whitelist.
+  kickMessage: "O servidor está em whitelist"
 
-# Lista de jogadores presentes na whitelist.
-lista: []
+  # Aqui você pode botar as pessoas que podem entrar na whitelist forçada.
+  bypass:
+    - "Vaaaaz"
+
+  # Lista de jogadores presentes na whitelist.
+  lista: []
 ```
