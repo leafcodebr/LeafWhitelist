@@ -1,2 +1,2 @@
 # LeafWhitelist
-Um plugin simples para Spigot para whitelist
+O LeafWhitelist foi desenvolvido para implementar várias funções inexistentes na whitelist comum do spigot, aproveite!
