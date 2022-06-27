@@ -2,7 +2,7 @@
 * Versões testadas: **1.8**.
 
 ## Dependencia
-É necessário o plugin [LeafCore]https://github.com/leafcodebr/LeafCore/releases/tag/1.5.1) para o funcionamento.
+É necessário o plugin [LeafCore](https://github.com/leafcodebr/LeafCore/releases/tag/1.5.1) para o funcionamento.
 
 ## Configuração
 * Lista de Bypass.
